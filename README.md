@@ -1,4 +1,4 @@
-# HangoutBotPublic
+# HangoutBot Public Meta Repository 
 Some basic templates which can be used with the more advanced functionality of HangoutBot!
 
 This repository contains some basic examples for server owners and managers to build upon. It contains templates for meta commands you can add to your servers in upcoming updates (if the functionality is not already implemented)
