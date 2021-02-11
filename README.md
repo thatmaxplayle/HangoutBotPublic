@@ -5,3 +5,6 @@ This repository contains some basic examples for server owners and managers to b
 
 ### 💬 Any questions?
 Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a chat with a lovely member of the team! :) 
+
+### 🧑 Meet the Team!
+Right now, it's just myself and Harry Littlewood developing HangoutBot. I hope this team will expand in the future!
