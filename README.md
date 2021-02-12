@@ -34,8 +34,8 @@ Here's a semi-comprehensive list of all the libraries used by HangoutBot, some a
 * Microsoft Code Analysis Tools by Microsoft
 * [Dapper](https://www.nuget.org/packages/Dapper/) by Mark Gravell and Nick Craver
 * [Discord.Extensions.Interactive](https://www.nuget.org/packages/Discord.Extensions.Interactive/) (Formerly Discord.Addons.Interactive, forked and maintaned by Max Playle)
-* [Discord.Net] by RougeException and cfelegy ([https://github.com/Discord-Net/Discord.Net](Open Source))
-* [Discord.Net.Webhooks] by RougeException and cfelegy ([https://github.com/Discord-Net/Discord.Net](Open Source))
+* [Discord.Net] by RougeException and cfelegy ( [https://github.com/Discord-Net/Discord.Net](Open Source) )
+* [Discord.Net.Webhooks] by RougeException and cfelegy ( [https://github.com/Discord-Net/Discord.Net](Open Source) )
 * Microsoft.Extensions.Configuration by Microsoft
 * Microsoft.Extensions.Configuration.Json by Microsoft
 * Microsoft.Extensions.DependencyInjection by Microsoft
