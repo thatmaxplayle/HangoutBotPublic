@@ -11,6 +11,12 @@ Right now, it's in core development, meaning it's not very feature rich yet, and
 ### 💰 Will my MaxBot+ subscription be transferred?
 Yes, absolutely! There's no need to purchase anything additional to have the premium plan for both bots. When it's public, you'll have the paid tier for both of the bots, until the older MaxBot is turned off for good! 
 
+### 🏧 Support the Project
+Whilst I do enjoy creating the bot, and it is simply my hobby - it does cost money to run and maintain 24/7. If you'd like to contribute to the running costs of the bot - I'd appreciate that immensely. Donations are __non-refundable__ so consider that you're pledging before you do so!
+
+* Donate via [BuyMeACoffee](https://www.buymeacoffee.com/maxplayle)
+* Donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=FGAYTHK5437U4)
+
 ### 💬 Any questions?
 Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a chat with a lovely member of the team! :) 
 
