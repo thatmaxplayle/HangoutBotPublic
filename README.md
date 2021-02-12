@@ -24,7 +24,7 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 🆘 ***Feedback and Consultancy:***
 * Harry Littlewood
 * Brandon Barber
-* Lenny Kassel
+* Lenny K
 
 🌙 ***Early Access Testing:***
 * The [LSPDFR Central](https://discord.gg/AtusfWx) Team (Clapped, AP, Lenny)  
