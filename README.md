@@ -23,7 +23,7 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 ### 🧑 Meet the Team!
 
 💻 ***Code Contribution:***
-* [Max Playle](https://www.buymeacoffee.com/maxplayle) *(Lead Developer)*
+* [Max Playle](https://www.github.com/maxplayle04) *(Lead Developer)*
 * Harry Littlewood
 
 
