@@ -16,7 +16,7 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 
 ### 🧑 Meet the Team!
 
-💻 ***Code Team:***
+💻 ***Code Contribution:***
 * [Max Playle](https://www.buymeacoffee.com/maxplayle) *(Lead Developer)*
 * Harry Littlewood
 
@@ -28,3 +28,26 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 
 🌙 ***Early Access Testing:***
 * The [LSPDFR Central](https://discord.gg/AtusfWx) Team (Clapped, AP, Lenny)  
+
+### 📚 Libraries Used
+Here's a semi-comprehensive list of all the libraries used by HangoutBot, some are available publicly whereas others aren't, just as some are open-source and some are not! 
+* Microsoft Code Analysis Tools by Microsoft
+* [Dapper](https://www.nuget.org/packages/Dapper/) by Mark Gravell and Nick Craver
+* [Discord.Extensions.Interactive](https://www.nuget.org/packages/Discord.Extensions.Interactive/) (Formerly Discord.Addons.Interactive, forked and maintaned by Max Playle)
+* [Discord.Net] by RougeException and cfelegy ([https://github.com/Discord-Net/Discord.Net](Open Source))
+* [Discord.Net.Webhooks] by RougeException and cfelegy ([https://github.com/Discord-Net/Discord.Net](Open Source))
+* Microsoft.Extensions.Configuration by Microsoft
+* Microsoft.Extensions.Configuration.Json by Microsoft
+* Microsoft.Extensions.DependencyInjection by Microsoft
+* [Newtonsoft.Json](https://www.newtonsoft.com/json)
+* System.Configuration.ConfigurationManager by Microsoft
+* System.Data.SqlClient by Microsoft and the dotnetframework Team
+* [System.Data.SQLite.Core](https://www.nuget.org/packages/System.Data.SQLite.Core/) by mistachkin and the SQLite team
+* System.Drawing.Common by Microsoft
+* [Urban.NET](https://www.nuget.org/packages/Urban.NET/) by MCUnderground
+* MaxPlayle.Common by Max Playle
+* com.maxplayle.ApplicationAssistance by Max Playle
+* Cookie by Max Playle
+* com.maxplayle.CommonHashing by Max Playle 
+
+Please note that some of the items on this list have not yet been implemented/used, however have been carried over from the Legacy MaxBot, and thus will be utilised in upcoming commands and features.
