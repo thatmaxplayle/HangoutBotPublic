@@ -15,4 +15,16 @@ Yes, absolutely! There's no need to purchase anything additional to have the pre
 Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a chat with a lovely member of the team! :) 
 
 ### 🧑 Meet the Team!
-Right now, it's just myself and Harry Littlewood developing HangoutBot. I hope this team will expand in the future!
+
+💻 ***Code Team:***
+* [Max Playle](https://www.buymeacoffee.com/maxplayle) *(Lead Developer)*
+* Harry Littlewood
+
+
+🆘 ***Feedback and Consultancy:***
+* Harry Littlewood
+* Brandon Barber
+* Lenny Kassel
+
+🌙 ***Early Access Testing:***
+* The [LSPDFR Central](https://discord.gg/AtusfWx) Team (Clapped, AP, Lenny)  
