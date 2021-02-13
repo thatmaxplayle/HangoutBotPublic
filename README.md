@@ -58,5 +58,6 @@ Here's a semi-comprehensive list of all the libraries used by HangoutBot, some a
 * com.maxplayle.ApplicationAssistance by Max Playle
 * Cookie by Max Playle
 * com.maxplayle.CommonHashing by Max Playle 
-
+* [HttpAgilityPack](https://html-agility-pack.net/) by ZZZProjects   
+  
 Please note that some of the items on this list have not yet been implemented/used, however have been carried over from the Legacy MaxBot, and thus will be utilised in upcoming commands and features.
