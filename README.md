@@ -36,7 +36,7 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 * [Ka0s](https://ka0s.xyz/) for the idea and support creating the ScriptHookV and RagePluginHook automatic update notifications. 
 
 🌙 ***Early Access Testing:***
-* The [LSPDFR Central](https://discord.gg/AtusfWx) Team (Clapped, AP, Lenny)  
+* [Vincentgsm Modifications](https://discord.gg/g82638j)
 
 ### 📚 Libraries Used
 Here's a semi-comprehensive list of all the libraries used by HangoutBot, some are available publicly whereas others aren't, just as some are open-source and some are not! 
