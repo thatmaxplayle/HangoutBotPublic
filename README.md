@@ -6,7 +6,7 @@ This repository contains some basic examples for server owners and managers to b
 ### 🤖 What is HangoutBot?
 HangoutBot is the new version of MaxBot, my current self-written Discord Bot. It was my first major project, and as such, contained some pretty terrible code. As such, I plan to rewrite MaxBot under a new, less-like-my-own name, HangoutBot. Originally, it was going to be MaxBot2.0 although I quickly scrapped this idea as I was growing less and less fond of naming a robot after myself, but there you have it.
 
-You can invite HangoutBot to your server by clicking [here](https://dsc.gg/hangoutbot)
+You can invite HangoutBot to your server by clicking [here](https://dsc.gg/hangoutbot).
 
 Right now, it's in core development, meaning it's not very feature rich yet, and definitely does not contain the same amount of commands and other features as its older Brother. But, it'll get there eventually! Baby steps! It will be made public when deemed stable enough to be used properly. Right now, it's only available in select servers - with owners whom I know.
 
