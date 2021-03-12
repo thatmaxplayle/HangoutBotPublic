@@ -3,6 +3,8 @@ Some basic templates which can be used with the more advanced functionality of H
 
 This repository contains some basic examples for server owners and managers to build upon. It contains templates for meta commands you can add to your servers in upcoming updates (if the functionality is not already implemented)
 
+See more information at [maxplayledev.org](https://maxplayldev.org/hangoutbot)
+
 ### 🤖 What is HangoutBot?
 HangoutBot is the new version of MaxBot, my current self-written Discord Bot. It was my first major project, and as such, contained some pretty terrible code. As such, I plan to rewrite MaxBot under a new, less-like-my-own name, HangoutBot. Originally, it was going to be MaxBot2.0 although I quickly scrapped this idea as I was growing less and less fond of naming a robot after myself, but there you have it.
 
