@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <hangoutbot>
 
-    <supportCommand>
-        <activator>log</activator>
-        <message>This is the contents of the main message!</message>
-        <embed>
-            <title>I need your log!</title>
-            <description>I need your log to help you with your issue! Please send me your log and allow me a couple of minutes to look through it!</description>
-            <color>random</color>
-            <thumbnail>https://www.example.com/image.png</thumnail>
-            <image>https://www.example.com/image.png</image>
-        </embed>
-        <permissions>
-            <requireModerator>false</requireModerator>
-            <requireSupport>true</requireSupport>
-        </permissions>
-    </supportCommand>
+  <supportCommand>
+    <activator>log</activator>
+    <message>This is the contents of the main message!</message>
+    <embed>
+      <title>I need your log!</title>
+      <description>I need your log to help you with your issue! Please send me your log and allow me a couple of minutes to look through it!</description>
+      <color>random</color> <!-- This either needs to contain "random" without quotes or have attributes for r="" g="" and b=""-->
+      <!-- If you didn't want a random colour, remove the above and insert:
+        <color r="128" g="128" b="128 />
+      -->
+      <thumbnailUrl>https://www.example.com/image.png</thumbnailUrl>
+      <imageUrl>https://www.example.com/image.png</imageUrl>
+      </embed>
+    <permissions>
+      <requireModerator>false</requireModerator>
+      <requireSupport>true</requireSupport>
+    </permissions>
+  </supportCommand>
 
 </hangoutbot>
