@@ -20,6 +20,7 @@ Whilst I do enjoy creating the bot, and it is simply my hobby - it does cost mon
 
 * Donate via [BuyMeACoffee](https://www.buymeacoffee.com/maxplayle)
 * Donate via [PayPal](https://www.paypal.com/donate?hosted_button_id=FGAYTHK5437U4)
+* Donate via [Patreon](https://patreon.com/thatmaxplayle)
 
 ### 💬 Any questions?
 Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a chat with a lovely member of the team! :) 
