@@ -30,12 +30,11 @@ Join my Support Server [by clicking here](https://discord.gg/3bq88pY) to have a 
 💻 ***Code Contribution:***
 * [Max Playle](https://www.github.com/maxplayle04) *(Lead Developer)*
 * Harry Littlewood
-
+• Brandon Barber
 
 🆘 ***Feedback and Consultancy:***
 * Harry Littlewood
 * Brandon Barber
-* Lenny K
 
 💡 ***Ideas and Concepts:***
 * [Ka0s](https://ka0s.xyz/) for the idea and support creating the ScriptHookV and RagePluginHook automatic update notifications. 
